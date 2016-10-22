@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "995417824048",
+    "firebase_url": "https://night-buddy.firebaseio.com",
+    "project_id": "night-buddy",
+    "storage_bucket": "night-buddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995417824048:android:754180ce8b5cc538",
+        "android_client_info": {
+          "package_name": "com.groupsafety.night_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995417824048-1ean9a7e4ef083vplbbm9e4m4ndke7vp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groupsafety.night_buddy",
+            "certificate_hash": "E559D966518A63FDCB0614B96A2EF198D76E2364"
+          }
+        },
+        {
+          "client_id": "995417824048-ntojbg2a6ocskhdtipda2vmhe9tbf1ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA053NMYT5gNlatgNLcgC03dxGKRlsGQDE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995417824048-ntojbg2a6ocskhdtipda2vmhe9tbf1ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
