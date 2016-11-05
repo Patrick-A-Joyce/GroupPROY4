@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity implements
     Button mButtonCloudy;
     GoogleApiClient mGoogleApiClient;
     String mUserId = "";
-    
+
     private FirebaseAuth mAuth;
     private FirebaseAuth.AuthStateListener mAuthListener;
 
